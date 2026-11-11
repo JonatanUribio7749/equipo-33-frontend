@@ -8,7 +8,7 @@
 
 ## 1. Propósito
 
-El sitio presenta al Grupo 33 mediante una portada, tres perfiles personales y una bitácora de desarrollo. Después de recibir la devolución, se reconstruyó la interfaz para mejorar la navegación, la uniformidad de los perfiles, el diseño adaptable, las interacciones y la documentación. La versión vigente **incluye a Jonatan, Gonzalo y Gabriel**; Julieta Bravo ya no integra el grupo.
+El sitio presenta al Grupo 33 mediante una portada, tres perfiles personales y una bitácora de desarrollo. Después de recibir la devolución, se reconstruyó la interfaz para mejorar la navegación, la uniformidad de los perfiles, el diseño adaptable, las interacciones y la documentación. La versión vigente **incluye a Jonatan, Gonzalo y Gabriel**.
 
 ## 2. Resumen de la rúbrica y mejoras
 
